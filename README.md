@@ -15,7 +15,7 @@ técnica da proposta dentro tempo disponível.
 | 11/10  | Proposta de escopo detalhada + Metodologia.   |
 | 02/11  | Viabilidade técnica.                          |
 | 22/11  | Entrega final para orientadores.              |
-| 02/12+ | Semana de defesas de TCCs.                    |
+| 07/12- | Semana de defesas de TCCs.                    |
 
 
 ## Recursos
