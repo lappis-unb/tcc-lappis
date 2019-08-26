@@ -24,6 +24,9 @@ técnica da proposta dentro tempo disponível.
 * [Simon Peyton Jones (How to write a great research Paper)](
 https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
+## Pesquisa
+
+* http://bdm.unb.br/ - Página de busca da biblioteca central com os TCCs da UnB
 
 ## Guia de escrita
 
