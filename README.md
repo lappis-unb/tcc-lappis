@@ -8,8 +8,7 @@ técnica da proposta dentro tempo disponível.
 
 
 ## Cronograma 2/2019
-
-Data 
+ 
 | Data   | Atividade                                     |
 |:------:|-----------------------------------------------|
 | 27/09  | Capítulo de fundamentação teórica.            |
