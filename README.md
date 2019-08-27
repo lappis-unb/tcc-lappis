@@ -23,6 +23,7 @@ técnica da proposta dentro tempo disponível.
 * Como escrever Trabalhos de Conclusão de Curso, Joaquim Martins (Disponível fisicamente no LAPPIS)
 * [Simon Peyton Jones (How to write a great research Paper)](
 https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+* Template TCC da fga [aqui](https://github.com/fga-unb/template-latex-tcc)
 
 ## Pesquisa
 
@@ -31,6 +32,8 @@ https://www.microsoft.com/en-us/research/academic-program/write-great-research-p
 ## Guia de escrita
 
 ## Problemas e erros recorrentes
+
+* "Preencher" o Template do TCC da faculdade (algumas seções não fazem sentido em alguns contextos.
 
 ## Banco de exemplos
 
