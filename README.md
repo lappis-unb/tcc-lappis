@@ -37,8 +37,11 @@ https://www.microsoft.com/en-us/research/academic-program/write-great-research-p
 * TCC não é uma lista de Bullets!!
 * Não precisa ser impessoal --- pode escrever de forma simples, pode usar primeira pessoa. É comum usar o "nós" (autor e leitor)
 * Evitar voz passiva, substantivo indefinido. 
+* Comum escrevre no passado ou no presente
 * Frases enormes (evitar)
-* Referências - citar o mesmo autor em várias frases
+* Referências - citar o mesmo autor em várias frases (próximas uma das outras)
+* Referenciar livro texto - se tiver no mesmo assunto, após a primeira referencia, o restante fica implicito 
+* Segundo o autor Sommerville \cite{} (não fazer) - somente referenciar o autor pelo nome se ele for importante pro argumento
 
 
 ## Banco de exemplos
