@@ -40,6 +40,7 @@ https://www.microsoft.com/en-us/research/academic-program/write-great-research-p
 * Frases enormes (evitar)
 * Referências - citar o mesmo autor em várias frases
 
+
 ## Banco de exemplos
 * Matheus Faria
 * Victor Navarro
