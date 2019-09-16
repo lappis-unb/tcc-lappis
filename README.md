@@ -34,7 +34,15 @@ https://www.microsoft.com/en-us/research/academic-program/write-great-research-p
 ## Problemas e erros recorrentes
 
 * "Preencher" o Template do TCC da faculdade (algumas seções não fazem sentido em alguns contextos.
+* TCC não é uma lista de Bullets!!
+* Não precisa ser impessoal --- pode escrever de forma simples, pode usar primeira pessoa. É comum usar o "nós" (autor e leitor)
+* Evitar voz passiva, substantivo indefinido. 
+* Frases enormes (evitar)
+* Referências - citar o mesmo autor em várias frases
 
 ## Banco de exemplos
+* Matheus Faria
+* Victor Navarro
+
 
 ## FAQ
